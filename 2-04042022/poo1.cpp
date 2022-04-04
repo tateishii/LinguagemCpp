@@ -6,7 +6,7 @@ a objeto. Usando classe e objetos
 #include <iostream>
 
 
-/* Chamada da biblioteca std*/
+// Chamada da biblioteca std
 using std::cout;
 using std::cin;
 
